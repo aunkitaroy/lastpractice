@@ -1,1 +1,2 @@
 This is a practice run through of the lottery exercise and how it works on Git.
+"Please enter your number of draws."
